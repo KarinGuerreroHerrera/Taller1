@@ -1,0 +1,13 @@
+tipo:diesel:23000:2.0
+tipo:acpm:12000:5.0
+tipo:Extra:43000:6.0
+tipo:corriente:12000:3.0
+surtidor:AnA:diesel:0.0:acpm:0.0:Extra:0.0:corriente:0.0
+surtidor:AnA:diesel:0.0:acpm:0.0:Extra:0.0:corriente:0.0
+surtidor:AnA:diesel:0.0:acpm:0.0:Extra:0.0:corriente:0.0
+surtidor:Sara:diesel:0.0:acpm:0.0:Extra:0.0:corriente:0.0
+empleado:AnA:0
+empleado:Sara:0
+empleado:Juan:0
+empleado:Maria:0
+empleado:Carlos:0
